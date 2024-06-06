@@ -1,0 +1,6 @@
+.DS_Store
+*~
+*.gz
+dataset/*
+*.pyc
+__pycache__/
